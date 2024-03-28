@@ -2,9 +2,7 @@
 
 # Contents
 * [About](#About)
-* [Technologies Used](#Technologies Used)
-* [Installation](#Installation)
-* [Features](#Features)
+* [Technologies](#Technologies)
 * [Testing](#Testing)
 
 
@@ -25,7 +23,7 @@ This is a Loan-API that allows users to register, view their information, and ap
 
 Nlog is used for logging errors and warnings.
 
-## Technologies Used
+## Technologies
 * NET 5
 * MSSQL Server
 * NLog
@@ -41,5 +39,3 @@ Unit tests are used during testing (XUnit).
 
 First of all we should use "generateaccountant" to create Accountant user that will add default accountant user and returns token,
 Tokens used in this API is "Bearer Access Token".
-
-
