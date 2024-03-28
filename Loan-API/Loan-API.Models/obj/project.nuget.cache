@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "pz78KQltO/CGnSIEx/BS6ROqZHHp2Sn5OZvBkvAqoWebVzGnq5V3VlHc95YcFtBSMwuxHAT+0jWCdCd+UEia0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\george.chkhaidze\\source\\repos\\Loan-API\\Loan-API\\Loan-API.Models\\Loan-API.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog.database\\5.0.1\\nlog.database.5.0.1.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog.extensions.logging\\5.0.1\\nlog.extensions.logging.5.0.1.nupkg.sha512",
+    "C:\\Users\\george.chkhaidze\\.nuget\\packages\\nlog.web.aspnetcore\\5.0.0\\nlog.web.aspnetcore.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
